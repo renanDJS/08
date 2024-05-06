@@ -3,8 +3,6 @@
  
 História e Principais IDEs
 
-História e Principais IDEs
-
 Origens das IDEs
 
 No passado, os programadores usavam editores de texto simples. Com o aumento da complexidade dos projetos, surgiu a necessidade de ferramentas mais avançadas.
